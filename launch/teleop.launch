@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node name="kbot_teleop_node" pkg="kbot_teleop" type="teleop.py" output="screen"/>
+    
+</launch>
